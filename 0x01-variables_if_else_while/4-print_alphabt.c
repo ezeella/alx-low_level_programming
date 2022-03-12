@@ -9,6 +9,7 @@
 
 int main(void)
 {
+int i;
 char emmanuella[26] = "abcdefghijklmnopqrstuvwxyz";
 for (i = 0; i < 26; i++)
 {
