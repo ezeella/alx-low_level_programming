@@ -10,12 +10,11 @@
 int main(void)
 {
 int i;
-char emmanuella[26] = "abcdefghijklmnopqrstuvwxyz";
-for (i = 0; i < 26; i++)
+for (i = 97; i < 123; i++)
 {
-	if (emmanuella[i] != "q" && emmanuella[1] != "e")
+	if (i != 101 && i != 113)
 	{
-		putchar(emmanuella[i]);
+		putchar(i);
 	}
 }
 putchar('\n');
