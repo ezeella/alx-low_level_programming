@@ -2,9 +2,11 @@
 
 /**
  * main  _isupper - checks if parameter is an uppercase character.
- * description return i or zero if uppcase or lowercase
+ * description on _isuper function is a function that  returns ``:wq!
+ * i or zero if uppcase or lowercase
  * @c: input character.
  * Return: 1 if is an uppercase character, 0 in other case.
+ * description here oeepepepep
  */
 
 int _isupper(int c)
