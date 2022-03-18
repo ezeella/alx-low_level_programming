@@ -1,8 +1,7 @@
 #include "main.h"
 
 /**
- * main  _isupper - checks if parameter is an uppercase character.
- * description: this function return i if the uppercase and 0 if lower case
+ * description:  _isupper - checks if parameter is an uppercase character.
  * @c: input number.
  * Return: 1 if is an uppercase character, 0 in other case.
  */
