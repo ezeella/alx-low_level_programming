@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * description:  prints Buzz each numbers of 3 and 5.
+ * main - prints Buzz each numbers of 3 and 5.
+ * description: Hello dear.
  * Return: Always 0.
  */
 
