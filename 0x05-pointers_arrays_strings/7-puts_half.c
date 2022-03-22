@@ -1,5 +1,5 @@
 #include "main.h"
-
+#include <_putchar.c>
 /**
  * puts_half - a function that prints half of a string, followed by a new line.
  * @str: An input string
