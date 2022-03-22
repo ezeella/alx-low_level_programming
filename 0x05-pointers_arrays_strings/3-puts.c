@@ -1,18 +1,20 @@
 #include "main.h"
-#include <stdio.h>
-
-void _puts(char *);
 
 /**
- * main - check the code for Holberton School students.
+ * _puts - Write a function that prints a string, followed
+ * by a new line, to stdout.
  *
- * Return: Always 0.
+ * @str: an input string
+ * Return: Nothing
  */
-int main(void)
+void _puts(char *str)
 {
-	char *str;
+	int i = 0;
 
-	str = "I do not fear computers. I fear the lack of them!";
-	_puts(str);
-	return (0);
+	while (str[i] != '\0')
+	{
+		_putchar(str[i]);
+		i++;
+	}
+	_putchar('\n');
 }
