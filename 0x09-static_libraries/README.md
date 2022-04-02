@@ -1,1 +1,1 @@
-this is another readme
+this is another readme, under static libraries
